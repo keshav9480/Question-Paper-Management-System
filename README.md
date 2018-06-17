@@ -16,4 +16,7 @@
  
  The manager of the database is the only one who can access every part of the database and can do upload or download of any paper and its 
  solutions. He is also the one who verifies the details during the sigh in process of the students and teachers. The verification is done,
- so that the students or teachers cannot get access to the subject papers that they don’t study or teach
+ so that the students or teachers cannot get access to the subject papers that they don’t study or teach.
+
+
+
