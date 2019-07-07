@@ -1,4 +1,4 @@
-#Quetion Paper Management System
+#Question Paper Management System
 
  The students and the teacher log in using the mobile application. They need to log in using their respective unique id (faculty id and- 
  USN respectively). In the mobile application, there is also a sign up form for all the new recipients.
